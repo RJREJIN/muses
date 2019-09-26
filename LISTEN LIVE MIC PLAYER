@@ -1,0 +1,6 @@
+<ffmp3-skin folder="ffmp3-listen-live" togglePlayStop="true">
+  <bg image="listen-live-mic.png" x="0" y="0" ></bg>
+  <play image="play-stop.png" x="0" y="39" />
+  <stop image="play-stop.png" x="0" y="39" />
+  <status imagePlay="statusplay.gif" imageStop="statusstop.gif" x="69" y="80" />
+</ffmp3-skin>
